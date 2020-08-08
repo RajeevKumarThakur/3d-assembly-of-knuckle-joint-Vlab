@@ -78,7 +78,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 :--|:--|:--|:-:
 1.| User will be able to identify the parts in a knuckle joint                | On the simulator screen the picture depicts the different parts of the knuckel joint  |1._____ is the other name for knuckel joint  <br>2.Design a sketch of the knuckel joint 
 2.|User will be able to understand the working of cad software                |  CAD is mainly used for detailed engineering of 3D models or 2D drawings of physical components | Find out about the uses of cad
-3.|  User will be able to model the different parts acccording to requirement |   | Which of the following are important parts of knuckle joint? <br> A. Eye <br> B. Pin <br> C. Fork <br> <b> D. Each of the above </b> <br>
+3.|  User will be able to model the different parts acccording to requirement |   | Which of the following are important parts of knuckle joint? <br> A. Eye <br> B. Pin <br> C. Fork <br> <b> D. Each of the above </b> <br> Correct Answer: D
 4.| User will be able to build a 3d assembly of knuckel joint                 | Design a 3d model of the knuckel joint  | 1. Knuckle Joint can’t be used to connect two intersecting rods. <br> A.Yes <br> B. NO <br> C. It can be used with some modifications <br> <b> D. It is expensive and hence isn’t used </b><br> Correct Answer: A<br> 2. A maximum of how many roads may be connected using a knuckle joint?  <br> A.2 <br> B.5 <br> C.4 <br> <b> D. 3</b> <br> Correct answer: D
 
 
