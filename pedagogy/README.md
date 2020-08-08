@@ -15,6 +15,7 @@
 <h4> [2. Learning Objectives ](#LO)
 <h4> [3. Instructional Strategy](#IS)
 <h4> [4. Task & Assessment Questions](#AQ)
+
 <hr>
 
 <a name="LO"></a>
