@@ -15,7 +15,6 @@
 <h4> [2. Learning Objectives ](#LO)
 <h4> [3. Instructional Strategy](#IS)
 <h4> [4. Task & Assessment Questions](#AQ)
-<h4> [5. Simulator Interactions](#SI)
 <hr>
 
 <a name="LO"></a>
@@ -79,15 +78,14 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 1.| User will be able to identify the parts in a knuckle joint                | On the simulator screen the picture depicts the different parts of the knuckel joint  | design a sketch of the knuckel joint
 2.|User will be able to understand the working of cad software                |  CAD is mainly used for detailed engineering of 3D models or 2D drawings of physical components | Find out about the uses of cad
 3.|  User will be able to model the different parts acccording to requirement |   | Which of the following are important parts of knuckle joint? <br> A. Eye <br> B. Pin <br> C. Fork <br> <b> D. Each of the above </b> <br>
-4.| User will be able to build a 3d assembly of knuckel joint                 | Design a 3d model of the knuckel joint  | 1. Knuckle Joint can’t be used to connect two intersecting rods. <br> A.Yes <br> B. NO <br> C. It can be used with some modifications <br> <b> D. It is expensive and hence isn’t used </b> <br>
- 2. A maximum of how many roads may be connected using a knuckle joint?  <br> A.2 <br> B.5 <br> C.4 <br> <b> D. 3</b> <br> 
+4.| User will be able to build a 3d assembly of knuckel joint                 | Design a 3d model of the knuckel joint  | 1. Knuckle Joint can’t be used to connect two intersecting rods. <br> A.Yes <br> B. NO <br> C. It can be used with some modifications <br> <b> D. It is expensive and hence isn’t used </b> <br>2. A maximum of how many roads may be connected using a knuckle joint?  <br> A.2 <br> B.5 <br> C.4 <br> <b> D. 3</b> <br> 
 
 
 
 
  <br>
 
- <u> You can add additional TASKS & Assessment Questions <u>
+
 <br/>
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
