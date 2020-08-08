@@ -1,4 +1,4 @@
-## Storyboard (Round 2)
+## Storyboard
 
 3D Assembly of knuckel joint
 
