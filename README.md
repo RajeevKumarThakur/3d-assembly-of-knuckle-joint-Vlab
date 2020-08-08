@@ -26,7 +26,7 @@ Mechanical Engineering
 
 Abdul Kalam Technical University(AKTU) and others
 
-<b>Name of Developer | <b> Ashok kumar yadav - - - - - -
+<b>Name of Developer | <b> Ashok kumar yadav
 :--|:--|
 <b> Institute | <b> Raj Kumar Goel Institite of Technology
 <b> Email id|     <b> ashokme015@gmail.com
@@ -34,7 +34,7 @@ Abdul Kalam Technical University(AKTU) and others
 
 #### Mentor Details
 
-<b>Mentored by | <b> Senthil Subramanian - - - - - -
+<b>Mentored by | <b> Senthil Subramanian
 :--|:--|
 <b> Institute | <b> Sharda Group of Institutions
 <b> Email id|     <b> tss.senthil.hcst@sgei.org
