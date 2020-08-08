@@ -90,27 +90,60 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Knuckle Joint can’t be used to connect two intersecting rods?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "Yes",                  ///// Write the option 1 inside double quotes
+        b: "No",                  ///// Write the option 2 inside double quotes
+        c: "It can be used with some modificatios",                  ///// Write the option 3 inside double quotes
+        d: "It is expensive and hence isn’t used"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "a"                ///// Write the correct option inside double quotes
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
     {
-     question: "This is question 2?",  ///// Write the question inside double quotes
+     question: " A maximum of how many roads may be connected using a knuckle joint?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "2",                  ///// Write the option 1 inside double quotes
+        b: "3",                  ///// Write the option 2 inside double quotes
+        c: "4",                  ///// Write the option 3 inside double quotes
+        d: "5"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "b"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+
+    {
+      question: " Which of the following are important parts of knuckle joint?",
+      answers: {
+        a: "Eye",
+        b: "Pin",
+        c: "Fork",
+        d: " Each of the mentioned"
+      },
+      correctAnswer: "d"
+    },
+
+    {
+      question: "TCalculate the diameter of pin from shear consideration with maximum shear stress allowed is 40NN/mm² and an axial tensile force of 50kN is acting on the rod?",
+      answers: {
+        a: "39mm",
+        b: "44mm",
+        c: "49mm",
+        d: "52mm"
+      },
+      correctAnswer: "c"
+    },
+
+    {
+      question: " A knuckle joint can be used in valve mechanism of a reciprocating engine?",
+      answers: {
+        a: "Yes",
+        b: "No",
+        c: " Yes but there are stress probles",
+        d: "No as it is very dangerous to use"
+      },
+      correctAnswer: "a"
+    },
+
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
