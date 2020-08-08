@@ -1,6 +1,6 @@
-## Storyboard (Round 2)
+## Storyboard
 
-Experiment 1: Name of the Experiment
+Experiment 1: 3d-assembly-of-knuckle-joint
 
 ### 1. Story Outline:
 
