@@ -1,16 +1,14 @@
 ## Pedagogy (Round 1)
 <p align="center">
 
-Remove this line before submitting : To Refer a filled samfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffple of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
-<br>
-<b> Experiment ABCDEF Lab  <a name="top"></a> <br>
+<b> Experiment of  Machine Design Lab  <a name="top"></a> <br>
 </p>
 
-<b>Discipline | <b>Type Name of Discipline  to which lab belongs
+<b>Discipline | <b> Mechanical Engineering
 :--|:--|
-<b> Lab | <b> Type name of the lab
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Lab | <b> Machine Design Lab
+<b> Experiment|     <b> 1. (47) To create the 3D Assembly of Knuckle Joint
 
 
 <h4> [1. Focus Area](#LO)
@@ -21,7 +19,13 @@ Remove this line before submitting : To Refer a filled samffffffffffffffffffffff
 <hr>
 
 <a name="LO"></a>
-#### 1. Focus Area : Name of the Focus area as per handout
+#### 1. Focus Area : Machine Design Lab
+
+<b> About the Experiment :</b>
+
+Knuckle joint is used to connect two rods in which one rod has one eye end and the other rod has two eye end or the fork end. These ends are named one and two eye ends as one of these has one hole and the other one has two holes.
+One eye end is placed between the two eyes of the two-eye end or fork end. After that a knuckle pin is inserted in the holes of the eye end and fork end. Knuckle Pin is used to hold fork end and eye end together
+
 
 #### 2. Learning Objectives and Cognitive Level
 
@@ -43,14 +47,36 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> As per Handout
-###### Assessment Method: As per handout
+    
+<u> <b>Description:
+    
+A knuckle joint is a type of joint which connects two cylindrical rods whose axis lies on the same plane and are under a tensile load. It is used to transmit axial tensile force.
+This joint allows angular movement of the two cylindrical rods in one plane.
+Knuckle joint is named so as it uses a knuckle pin to join the two cylindrical rods.
+    
+    
+    1. Log on the system. 
+    2. Open the 3d modeling cad software 
+    3. Create the new part. 
+    4. Generate the switches using entities and tool like circle, trim, move, etc.
+    5. Edit the entities if necessary. 
+    6. Using the features like pad, fillet, mirror, revolve, etc. 
+    7. Save the part. 
+    8. Similarly open a new part and complete the second part and save it. 
+    9. Similarly, all parts are created and save. 
+    10. Open the assembly part then open the all parts one by one. 
+    11. Assemble the parts by using the tools. 
+    12. Edit and save if necessary. 
+    13. Exit the CAD software. 
+    14. Log off the system. 
 
-<u> <b>Description: </b> of how you are going to implement the above Instructional Strategy in your Simulator: </u>
-<br>
- Brief description as per handout
+    
+    
+    
+</b> </u>
 
-<br/>
+
+
 <div align="right">
     <b><a href="#top">↥ back to top</a></b>
 </div>
@@ -85,7 +111,7 @@ or type the correct answer below the question.
 
 <a name="SI"></a>
 
-#### 4. Simulator Interactions:
+#### 5. Simulator Interactions:
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
