@@ -3,7 +3,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Machine Design Lab
-<b> Experiment|     <b> (47) To create the 3D Assembly of Knuckle Joint
+<b> Experiment|     <b> 1) To create the 3D Assembly of Knuckle Joint
 
 <h5> About the Lab (Objective) : </h5>
 The mission of MACHINE DESIGN LAB is to innovative mechanical component design, improve design quality, shorten design time, and enhance design education for students. The design tools developed include design methodology and computer-aided design software systems.
@@ -26,7 +26,7 @@ Mechanical Engineering
 
 Abdul Kalam Technical University(AKTU) and others
 
-<b>Name of Developer | <b> Ashok kumar yadav
+<b>Name of Developer | <b> Dr. Ashok kumar yadav
 :--|:--|
 <b> Institute | <b> Raj Kumar Goel Institite of Technology
 <b> Email id|     <b> ashokme015@gmail.com
@@ -44,7 +44,7 @@ Abdul Kalam Technical University(AKTU) and others
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Abhishek Panchal| Faculty | Mechanical             | Raj Kumar Goel Institite of Technology, Ghaziabad | panchalgabhishek@gmail.com
-2 | Avinash Maurya  | Student | Information Technology | Raj Kumar Goel Institite of Technology, Ghaziabad|mauryaavinash98@gmail.com
-3 | Rajeev Kumar    | Student | Information Technology | Raj Kumar Goel Institite of Technology, Ghaziabad|rajeevkr8585@gmail.com,
-4 | Rupali Dubey    | Student | Information Technology | Raj Kumar Goel Institite of Technology, Ghaziabad|rupalidubey1304@gmail.com
+1 | Abhishek Panchal| Student | Mechanical  Engineering  | Raj Kumar Goel Institute of Technology, Ghaziabad | panchalgabhishek@gmail.com
+2 | Avinash Maurya  | Student | Information Technology   | Raj Kumar Goel Institute of Technology, Ghaziabad|mauryaavinash98@gmail.com
+3 | Rajeev Kumar    | Student | Information Technology   | Raj Kumar Goel Institute of Technology, Ghaziabad|rajeevkr8585@gmail.com,
+4 | Rupali Dubey    | Student | Information Technology   | Raj Kumar Goel Institute of Technology, Ghaziabad|rupalidubey1304@gmail.com
