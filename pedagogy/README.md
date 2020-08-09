@@ -8,7 +8,7 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Machine Design Lab
-<b> Experiment|     <b> 1. To create the 3D Assembly of Knuckle Joint
+<b> Experiment|     <b> To create the 3D Assembly of Knuckle Joint
 
 
 <h4> [1. Focus Area](#LO)
@@ -33,9 +33,9 @@ One eye end is placed between the two eyes of the two-eye end or fork end. After
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
 1.| User will be able to identify the parts in a knuckle joint               | Recall     |Identify
-2.| User will be able to understand the working of cad software              | Understand |Relate 
-3.| User will be able to model the different parts acccording to requirement | Analyze     | Model
-4.| User will be able to build a 3d assembly of knuckle joint                | Apply     | Build
+2.| User will be able to understand the working of cad software              | Relate     |Understand
+3.| User will be able to model the different parts acccording to requirement | Analyze    | Model
+4.| User will be able to build a 3d assembly of knuckle joint                | Apply      | Build
 
 
 <br/>
