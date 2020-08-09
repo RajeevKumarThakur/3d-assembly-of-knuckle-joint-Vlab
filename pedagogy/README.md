@@ -8,7 +8,7 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Machine Design Lab
-<b> Experiment|     <b>(47) To create the 3D Assembly of Knuckle Joint
+<b> Experiment|     <b>To create the 3D Assembly of Knuckle Joint
 
 
 <h4> [1. Focus Area](#LO)
