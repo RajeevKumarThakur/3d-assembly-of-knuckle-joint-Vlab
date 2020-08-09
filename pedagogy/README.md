@@ -8,7 +8,7 @@
 <b>Discipline | <b> Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Machine Design Lab
-<b> Experiment|     <b> 1. (47) To create the 3D Assembly of Knuckle Joint
+<b> Experiment|     <b> 1. To create the 3D Assembly of Knuckle Joint
 
 
 <h4> [1. Focus Area](#LO)
@@ -24,7 +24,6 @@
 <b> About the Experiment :</b>
 
 Knuckle joint is used to connect two rods in which one rod has one eye end and the other rod has two eye end or the fork end. These ends are named one and two eye ends as one of these has one hole and the other one has two holes.
-One eye end is placed between the two eyes of the two-eye end or fork end. After that a knuckle pin is inserted in the holes of the eye end and fork end. Knuckle Pin is used to hold fork end and eye end together
 
 
 #### 2. Learning Objectives and Cognitive Level
@@ -32,10 +31,10 @@ One eye end is placed between the two eyes of the two-eye end or fork end. After
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to identify the parts in a knuckle joint               | Apply      |Identify
+1.| User will be able to identify the parts in a knuckle joint               | Recall     |Identify
 2.| User will be able to understand the working of cad software              | Understand |Relate 
-3.| User will be able to model the different parts acccording to requirement | Apply      | Model
-4.| User will be able to build a 3d assembly of knuckel joint                | Create     | Build
+3.| User will be able to model the different parts acccording to requirement | Analyze     | Model
+4.| User will be able to build a 3d assembly of knuckle joint                | Apply     | Build
 
 
 <br/>
@@ -76,10 +75,10 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to identify the parts in a knuckle joint                | On the simulator screen the picture depicts the different parts of the knuckel joint  |1._____ is the other name for knuckel joint  <br>2.Design a sketch of the knuckel joint 
+1.| User will be able to identify the parts in a knuckle joint                | On the simulator screen the picture depicts the different parts of the knuckle joint  |1._____ is the other name for knuckle joint  <br>2.Design a sketch of the knuckle joint 
 2.|User will be able to understand the working of cad software                |  CAD is mainly used for detailed engineering of 3D models or 2D drawings of physical components | Find out about the uses of cad
 3.|  User will be able to model the different parts acccording to requirement |   | Which of the following are important parts of knuckle joint? <br> A. Eye <br> B. Pin <br> C. Fork <br> <b> D. Each of the above </b> <br> Correct Answer: D
-4.| User will be able to build a 3d assembly of knuckel joint                 | Design a 3d model of the knuckel joint  | 1. Knuckle Joint can’t be used to connect two intersecting rods. <br> A.Yes <br> B. NO <br> C. It can be used with some modifications <br> <b> D. It is expensive and hence isn’t used </b><br> Correct Answer: A<br> 2. A maximum of how many roads may be connected using a knuckle joint?  <br> A.2 <br> B.5 <br> C.4 <br> <b> D. 3</b> <br> Correct answer: D
+4.| User will be able to build a 3d assembly of knuckle joint                 | Design a 3d model of the knuckle joint  | 1. Knuckle Joint can’t be used to connect two intersecting rods. <br> A.Yes <br> B. NO <br> C. It can be used with some modifications <br> <b> D. It is expensive and hence isn’t used </b><br> Correct Answer: A<br> 2. A maximum of how many roads may be connected using a knuckle joint?  <br> A.2 <br> B.5 <br> C.4 <br> <b> D. 3</b> <br> Correct answer: D
 
 
 
