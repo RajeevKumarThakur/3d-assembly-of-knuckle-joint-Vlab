@@ -24,6 +24,7 @@
 <b> About the Experiment :</b>
 
 Knuckle joint is used to connect two rods in which one rod has one eye end and the other rod has two eye end or the fork end. These ends are named one and two eye ends as one of these has one hole and the other one has two holes.
+One eye end is placed between the two eyes of the two-eye end or fork end. After that a knuckle pin is inserted in the holes of the eye end and fork end. Knuckle Pin is used to hold fork end and eye end together.
 
 
 #### 2. Learning Objectives and Cognitive Level
