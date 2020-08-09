@@ -28,7 +28,7 @@ Abdul Kalam Technical University(AKTU) and others
 
 <b>Name of Developer | <b> Dr. Ashok kumar yadav
 :--|:--|
-<b> Institute | <b> Raj Kumar Goel Institite of Technology
+<b> Institute | <b> Raj Kumar Goel Institute of Technology
 <b> Email id|     <b> ashokme015@gmail.com
 <b> Department | Mechanical Department
 
