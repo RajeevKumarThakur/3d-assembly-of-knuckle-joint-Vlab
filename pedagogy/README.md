@@ -1,4 +1,4 @@
-## Pedagogy (Round 1)
+## Pedagogy
 <p align="center">
 
 <br>

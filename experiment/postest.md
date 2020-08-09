@@ -1,32 +1,29 @@
 ## Post test
 <br>
-Q 1. What will happen, if the glass plate is replaced with plane mirror?<br>
-<b>a. There will be no interference fringe<br></b>
-b. There will be interference fringe<br>
-c. colored fringes will be observed<br>
-d. None of the options<br><br>
 
-Q 2. What will happen, if sodium light is replaced with white light?<br>
-a. There will be no interference fringe<br>
-b. There will be interference fringe<br>
-<b>c. colored fringes will be observed<br></b>
-d. No change in pattern is visible<br>
+1) knuckle joint is unsuitable for two rotating shafts, which transmit torque<br>
+a) True<br>
+b) False<br>
 
-Q 3. What will appear, if in place of lens, a plane glass making some angle with the glass stripe  is used?<br>
-<b>a. Alternate dark and bright fringes in shape of a straight line.<br></b>
-b. triangular interference pattern<br>
-c. colored fringes will be observed<br>
-d. No change in pattern is visible<br>
+2) If knuckle joint is to fail by crushing failure of pin in fork, then determine the diameter of knuckle pin when 50kN axial tensile force act on rods. Given: Max allowable compressive stress=25N/mm², thickness of each eye of fork=25mm.<br>
+a) 40mm<br>
+b) 50mm<br>
+c) 60mm<br>
+d) 70mm<br>
 
-Q 4. Colours observed in thin film are because of ________________<br>
-a. Diffraction<br>
-<b>b. Interference<br></b>
-c. Polarization<br>
-d. None of the options<br>
+3) A knuckle joint is also called socket pin joint.<br>
+a) True<br>
+b) False<br>
 
-Q 5.  In Newton’s rings experiment, rings are formed when the light is ________________ by
-lower surface of the lens and upper surface of the glass plate, interfere.<br>
-a. Reflected<br>
-<b>b. Refracted<br></b>
-c. Transmitted<br>
-d. None<br></b>
+4) If any cross section is subjected to direct tensile stress and bending stress, then find the dimension of cross section. Given length & breadth are t and 2t respectively. F=25kN acts on the top fibre of the cross section, M=F x t . Also maximum allowable tensile stress =100N/mm².<br>
+a) 25.5mm<br>
+b) 30.2mm<br>
+c) 27.55mm<br>
+d) None of the mentioned<br>
+
+5) A knuckle joint can be used in valve mechanism of a reciprocating engine.<br>
+a) Yes<br>
+b) No<br>
+c) Yes but there are stress probles<br>
+d) No as it is very dangerous to use<br>
+

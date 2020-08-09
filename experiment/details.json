@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "3D-Assembly-of-Knuckle-Joint",     
+			"Lab": "Mechanical LAb",               
+			"Discipline": "3D-Assembly-of-Knuckle-Joint",				 
+			"Technology": "Mechanical Enginnering"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Ashok kumar yadav",         
+      "Institute": "Raj Kumar Goel Institite of Technology, Ghaziabad",         
+      "InstituteAcronym": "RKGIT"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Rajeev Kumar",             
+      "Institute": "Raj Kumar Goel Institite of Technology, Ghaziabad",               
+			"InstituteAcronym": "RKGIT"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Avinash Maurya",              
+      "Institute": "Raj Kumar Goel Institite of Technology, Ghaziabad",               
+			"InstituteAcronym": "RKGIT"         
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Abhishek Panchal",             
+      "Institute": "Raj Kumar Goel Institite of Technology, Ghaziabad",               
+			"InstituteAcronym": "RKGIT"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Rupali Dubey",              
+      "Institute": "Raj Kumar Goel Institite of Technology, Ghaziabad",               
+			"InstituteAcronym": "RKGIT"         
        }
    ]
 

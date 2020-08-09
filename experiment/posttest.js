@@ -90,27 +90,60 @@
 
   const myQuestions = [
     {
-      question: "This is question 1?",  ///// Write the question inside double quotes
+      question: "Knuckle joint is unsuitable for two rotating shafts, which transmit torque?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "True",                  ///// Write the option 1 inside double quotes
+        b: "False",                  ///// Write the option 2 inside double quotes
+        c: "Can't answer",                  ///// Write the option 3 inside double quotes
+        d: "Both of them"                   ///// Write the option 4 inside double quotes
       },
       correctAnswer: "a"                ///// Write the correct option inside double quotes
     },
 
     {
-      question: "This is question 2?",  ///// Write the question inside double quotes
+      question: "If knuckle joint is to fail by crushing failure of pin in fork, then determine the diameter of knuckle pin when 50kN axial tensile force act on rods. Given: Max allowable compressive stress=25N/mm², thickness of each eye of fork=25mm?",  ///// Write the question inside double quotes
       answers: {
-        a: "Option 1",                  ///// Write the option 1 inside double quotes
-        b: "Option 2",                  ///// Write the option 2 inside double quotes
-        c: "Option 3",                  ///// Write the option 3 inside double quotes
-        d: "Option 4"                   ///// Write the option 4 inside double quotes
+        a: "40mm",                  ///// Write the option 1 inside double quotes
+        b: "50mm",                  ///// Write the option 2 inside double quotes
+        c: "60mm",                  ///// Write the option 3 inside double quotes
+        d: "70mm"                   ///// Write the option 4 inside double quotes
       },
-      correctAnswer: "b"                ///// Write the correct option inside double quotes
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
     },                                  ///// To add more questions, copy the section below 
-    									                  ///// this line
+
+
+    {
+      question: "A knuckle joint is also called socket pin joint?",
+      answers: {
+        a: "True",
+        b: "False",
+        c: "Can't answer",
+        d: "Both of them"
+      },
+      correctAnswer: "b"
+    },
+
+    {
+      question: "If any cross section is subjected to direct tensile stress and bending stress, then find the dimension of cross section. Given length & breadth are t and 2t respectively. F=25kN acts on the top fibre of the cross section, M=F x t . Also maximum allowable tensile stress =100N/mm²?",
+      answers: {
+        a: "25.5mm",
+        b: "30.2mm",
+        c: "27.55mm",
+        d: "None of the mentioned"
+      },
+      correctAnswer: "a"
+    },
+
+    {
+      question: "This is question n?",
+      answers: {
+        a: "Option 1",
+        b: "Option 2",
+        c: "Option 3",
+        d: "Option 4"
+      },
+      correctAnswer: "c"
+    },
 
 
     /* To add more MCQ's, copy the below section, starting from open curly braces ( { )
