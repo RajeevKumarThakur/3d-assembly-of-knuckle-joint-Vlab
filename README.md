@@ -44,7 +44,7 @@ Abdul Kalam Technical University(AKTU) and others
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Abhishek Panchal| Student | Mechanical  Engineering  | Raj Kumar Goel Institute of Technology, Ghaziabad | panchalgabhishek@gmail.com
-2 | Avinash Maurya  | Student | Information Technology   | Raj Kumar Goel Institute of Technology, Ghaziabad|mauryaavinash98@gmail.com
-3 | Rajeev Kumar    | Student | Information Technology   | Raj Kumar Goel Institute of Technology, Ghaziabad|rajeevkr8585@gmail.com,
-4 | Rupali Dubey    | Student | Information Technology   | Raj Kumar Goel Institute of Technology, Ghaziabad|rupalidubey1304@gmail.com
+1 | Abhishek Panchal| Student | Mechanical Engineeering| Raj Kumar Goel Institute of Technology, Ghaziabad | panchalgabhishek@gmail.com
+2 | Avinash Maurya  | Student | Information Technology | Raj Kumar Goel Institute of Technology, Ghaziabad|mauryaavinash98@gmail.com
+3 | Rajeev Kumar    | Student | Information Technology | Raj Kumar Goel Institute of Technology, Ghaziabad|rajeevkr8585@gmail.com
+4 | Rupali Dubey    | Student | Information Technology | Raj Kumar Goel Institute of Technology, Ghaziabad|rupalidubey1304@gmail.com
