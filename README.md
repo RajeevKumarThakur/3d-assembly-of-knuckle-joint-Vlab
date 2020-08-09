@@ -3,7 +3,7 @@
 <b>Discipline | <b>Mechanical Engineering
 :--|:--|
 <b> Lab | <b> Machine Design Lab
-<b> Experiment|     <b> 1) To create the 3D Assembly of Knuckle Joint
+<b> Experiment|     <b> 1. To create the 3D Assembly of Knuckle Joint
 
 <h5> About the Lab (Objective) : </h5>
 The mission of MACHINE DESIGN LAB is to innovative mechanical component design, improve design quality, shorten design time, and enhance design education for students. The design tools developed include design methodology and computer-aided design software systems.
